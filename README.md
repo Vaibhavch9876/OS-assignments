@@ -33,6 +33,8 @@ Assignment-7
 1. Producerconsumer.c
 2. Readerwriter.c
 
-
 Assignment-8
 1. DiningPhilospher.c
+
+Assignment-9
+1. Banker'sAlgorithm.cpp
