@@ -38,3 +38,7 @@ Assignment-8
 
 Assignment-9
 1. Banker'sAlgorithm.cpp
+
+Assignment-10
+1. FCFS.cpp
+2. SJF.cpp
