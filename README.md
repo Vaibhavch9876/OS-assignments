@@ -40,5 +40,13 @@ Assignment-9
 1. Banker'sAlgorithm.cpp
 
 Assignment-10
-1. FCFS.cpp
-2. SJF.cpp
+1. FCFS.c
+2. ShortestJobFirstScheduling.c
+3. ShortestJobFirstScheduling_Preemptive.c
+4. Priority.c
+5. RoundRobin.c
+
+Assignment-11
+ 1. SSTF.c
+ 2. scan.c
+ 3. c_scan_scheduling.c
